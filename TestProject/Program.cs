@@ -8,6 +8,7 @@ namespace TestProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Coo Coo Coo");
+            thiswillbreak
         }
     }
 }
